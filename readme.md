@@ -50,7 +50,7 @@
 
 ## About The Project
 
-![Movie Pundit Action](https://i.ibb.co/bbQKxwD/ezgif-com-gif-maker.gif)
+![Movie Pundit Action](./assets/demo_movie_pundit.gif)
 
 There are many great streaming services to watch movies online in todays day and age. However, their build in content suggestion system is quite a bit broken and often times distracting, as convenient as it may be. This was the inspiration behind this Project. To iteratively build the best Movie Recommendation System that asks you what type of movie you would like to watch, no tell you what you should be watching in an intrusive way.
 
