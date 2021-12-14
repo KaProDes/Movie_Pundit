@@ -12,7 +12,7 @@
   <p align="center">
     Find your next flick by asking the (almost) all-knowing Movie Pundit
     <br />
-    <a href="https://github.com/KaProDes/Movie_Pundit/source"><strong>Jump to Project Source »</strong></a>
+    <a href="https://github.com/KaProDes/Movie_Pundit/tree/master/source"><strong>Jump to Project Source »</strong></a>
     <br />
     <br />
     <a href="https://movie-pundit.herokuapp.com/">View Demo</a>
@@ -62,7 +62,7 @@ Why use Movie Pundit:
 
 Of course, building a recommendation system is a continuous process and requires iterative improvements and matures over time. We will be updating the model on the backend per the issues/user feedback and we aim to make the most authentic recommender on the internet!
 
-<img src="https://i.ibb.co/VH6wcLH/2021-12-14-13-29-22-Settings.png" alt="Movie Pundit Home" width="60%">
+![Movie Pundit Home](https://i.ibb.co/VH6wcLH/2021-12-14-13-29-22-Settings.png)
 
 Visit <a href="https://movie-pundit.herokuapp.com/">Movie Pundit</a> to check it out now!
 
